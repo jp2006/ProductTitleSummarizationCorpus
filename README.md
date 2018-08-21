@@ -1,9 +1,12 @@
-# Title Summarization Corpus
+# Product Title Summarization(PTS) Corpus
+
+ 
+
 Dataset for CIKM 2018 paper "Multi-Source Pointer Network for Product Title Summarization"
 
 ### Description 
 
-Each line in corpus.txt consists of a pair of titles (original title, short title),   their brand, and commodity names. Each line is `tab-delimited` (two tabs) with the following format:
+Each line in corpus.txt consists of a pair of titles (original title, short title),  their brands, and commodity names. Each line is `tab-delimited` (two tabs) with the following format:
 
 ```bash
 <original title>\t\t<short title>\t\t<brand>\t\t<commodity name>
